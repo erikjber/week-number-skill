@@ -1,1 +1,3 @@
-The current week is
+It's week number {week}
+The current week is number {week}
+It is now week {week}
